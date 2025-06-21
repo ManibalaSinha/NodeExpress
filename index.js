@@ -12,8 +12,3 @@ app.get('/about', (req, res) => {
 app.get('/api/users', (req, res) => {
   res.json([{ id: 1, name: "Manibala" }]);
 });
-
-
-app.listen(PORT, () => {
-  console.log(`Server is running on port ${PORT}`);
-});
