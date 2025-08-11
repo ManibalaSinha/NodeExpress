@@ -1,13 +1,15 @@
 NodeExpress - REST API Backend
+Live Demo
+https://vercel.com/manibala-sinhas-projects-273c5a77/node-express
 
 A clean and scalable Node.js + Express.js RESTful API boilerplate with optional MongoDB or PostgreSQL support. This project is designed to be used as a starting point for building real-world backend services.
 
-🚀 Live Demo Build & Deploy a Website with Node.js and Express – Full Step-by-Step Tutorial
+Live Demo Build & Deploy a Website with Node.js and Express – Full Step-by-Step Tutorial
 https://youtu.be/ne4wsjVzjUk
 
 TBD I deployed using Render, Vercel 
 
-🔧 Tech Stack
+Tech Stack
 
 Runtime: Node.js
 
@@ -19,7 +21,7 @@ Authentication: JWT (optional - see roadmap)
 
 Testing: Postman / Jest (if added)
 
-📂 Folder Structure
+Folder Structure
 
 NodeExpress/
 ├── controllers/       # Route logic
@@ -31,7 +33,7 @@ NodeExpress/
 ├── app.js             # App entry point
 └── server.js          # Server launcher
 
-📌 Features
+Features
 
 Full CRUD APIs for resource models (e.g., User, Post, etc.)
 
@@ -69,10 +71,10 @@ npm install
 cp .env.example .env
 npm run dev
 
-🙌 Author
+Author
 
 Manibala SinhaGitHub • LinkedIn
 
-📜 License
+License
 
 This project is open source and available under the MIT License.
