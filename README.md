@@ -5,7 +5,7 @@ A clean and scalable Node.js + Express.js RESTful API boilerplate with optional 
 🚀 Live Demo Build & Deploy a Website with Node.js and Express – Full Step-by-Step Tutorial
 https://youtu.be/ne4wsjVzjUk
 
-TBD (You can deploy using Render, Railway, or Heroku)
+TBD I deployed using Render, Vercel 
 
 🔧 Tech Stack
 
