@@ -6,7 +6,7 @@ https://youtu.be/ne4wsjVzjUk
 
 #  NodeExpress Full-Stack Boilerplate
 
-A clean and scalable **Node.js + Express.js** starter project following **MVC architecture**.  
+A clean and scalable **Node.js + Express.js** project following **MVC architecture**.  
 Supports MongoDB/PostgreSQL integration, environment configuration, and custom middleware.  
 Perfect for REST APIs, microservices, or backend foundations.
 
