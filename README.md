@@ -127,7 +127,7 @@ Server runs at: `http://localhost:5000`
 
 ---
 
-##  Topics (GitHub Tags)
+##  Topics
 `nodejs` · `expressjs` · `restapi` · `mongodb` · `postgresql` · `mvc` · `backend` · `boilerplate`
 
 ---
