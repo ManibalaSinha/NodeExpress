@@ -3,7 +3,7 @@ import React, { useEffect } from 'react';
 
 function App() {
   useEffect(() => {
-    fetch(`${process.env.REACT_APP_API_BASE_URL}/users`)
+    fetch(`${process.env.REACT_APP_API_BASE_URL}/api/users`)
       .then(res => res.json())
       .then(data => console.log(data))
       .catch(err => console.error("Error fetching users:", err));
